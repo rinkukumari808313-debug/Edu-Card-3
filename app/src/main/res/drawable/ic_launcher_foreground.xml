@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center container within 66dp safe zone (21 to 87) -->
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 52,43 C 43,39 34,40 28,43 C 26.9,43.5 26,44.5 26,45.8 L 26,73.5 C 26,74.8 27.2,75.7 28.5,75.3 C 34.5,73 43,73.2 52,77 Z" />
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 56,43 C 65,39 74,40 80,43 C 81.1,43.5 82,44.5 82,45.8 L 82,73.5 C 82,74.8 80.8,75.7 79.5,75.3 C 73.5,73 65,73.2 56,77 Z" />
+    <!-- Book Spine Divider -->
+    <path
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,43 L 54,77" />
+    <!-- Graduation Cap / Mortarboard on top -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 54,27 L 76,35 L 54,43 L 32,35 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 44,40 L 44,45 C 44,48 64,48 64,45 L 64,40 Z" />
+    <!-- Tassel -->
+    <path
+        android:strokeColor="#FEF3C7"
+        android:strokeWidth="1.8"
+        android:pathData="M 69,37 L 72,44 L 72,48" />
+    <!-- Golden Star Emblem -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M 54,50 L 55.5,54.5 L 60,54.5 L 56.5,57.5 L 58,62 L 54,59 L 50,62 L 51.5,57.5 L 48,54.5 L 52.5,54.5 Z" />
+</vector>

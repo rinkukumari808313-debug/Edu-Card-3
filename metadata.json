@@ -1,0 +1,6 @@
+{
+  "name": "Edu Card",
+  "description": "All-in-one educational platform for classes 6 to 12 with study notes, MCQ practice, mock tests, question bank, AI study assistant, flashcards, progress tracking, and teacher/admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
